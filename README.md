@@ -1,4 +1,4 @@
-##Intro
+#Intro
 
 This is the official page for the paper titled 'TransONet: Automatic Segmentation of Vasculature in Computed Tomographic Angiograms Using Deep Learning.'  For data sample you can download from here: https://github.com/pip-alireza/DeepCalcScoring/tree/main/data_sample
 
